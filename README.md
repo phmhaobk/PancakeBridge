@@ -1,4 +1,4 @@
-# 🧠 PancakeBridge – Phân tích dữ liệu chăm sóc khách hàng qua tin nhắn
+# 🧠 PancakeBridge – Phân tích dữ liệu chăm sóc khách hàng qua tin nhắn & Phân tích chiến dịch quảng cáo
 
 Dự án xây dựng hệ thống tự động thu thập, xử lý, gán nhãn và trực quan hóa dữ liệu từ **nền tảng tin nhắn Pancake**, giúp doanh nghiệp giám sát chất lượng chăm sóc khách hàng và tối ưu hiệu quả bán hàng.
 
