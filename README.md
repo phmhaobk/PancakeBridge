@@ -28,6 +28,8 @@ Dự án xây dựng hệ thống tự động thu thập, xử lý, gán nhãn 
   - Hiệu suất nhân viên
   - Các lý do khách không mua hàng
 - Dễ dàng theo dõi và ra quyết định
+- Xây dựng dashboard đánh giá hiệu quả chiến dịch: chi phí / đơn hàng, ROAS.
+- Đưa ra khuyến nghị dừng hoặc tiếp tục dựa trên dữ liệu thực tế.
 
 ### 5️⃣ Tích hợp với hệ thống CRM
 - Đồng bộ tin nhắn từ **Pancake** vào hệ thống CRM nội bộ
