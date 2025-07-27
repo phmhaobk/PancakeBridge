@@ -40,15 +40,12 @@ Dự án xây dựng hệ thống tự động thu thập, xử lý, gán nhãn 
 [🔗 Xem Dashboard tại đây](https://app.powerbi.com/view?r=eyJrIjoiYjU2ZDNiNmItZmMyYy00ZTE2LWJkNzUtNDkwZGY3YjNkYWZhIiwidCI6ImE3MmM4NGVmLTAxMjQtNGVlYS1hYTU4LTU5MDBmNTBjODA1OCIsImMiOjEwfQ%3D%3D)
 ---
 
-## 👨‍💻 Nhóm thực hiện
+## 👨‍💻 Thực hiện
 
-- **Người phát triển chính**: [phmhaobk](https://github.com/phmhaobk)
+- **Người phát triển**: [phmhaobk](https://github.com/phmhaobk)
 - Liên hệ: phammyhaomi2.k66@gmail.com
 - Phone: 0964402297
 
 ---
 
-## 📝 Giấy phép
-
-MIT License. Free for use with attribution.
 
