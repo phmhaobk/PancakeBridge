@@ -7,7 +7,7 @@ Dự án xây dựng hệ thống tự động thu thập, xử lý, gán nhãn 
 ## 🛠️ Các phân hệ chính
 
 ### 1️⃣ Thu thập & Tiền xử lý dữ liệu
-- Lấy dữ liệu hội thoại từ **API Pancake**
+- Lấy dữ liệu hội thoại, tin nhắn, khách hàng và quảng cáo từ **API Pancake**
 - Làm sạch, chuẩn hóa và xử lý tiếng Việt tự nhiên
 
 ### 2️⃣ Gán nhãn & Giám sát hội thoại
